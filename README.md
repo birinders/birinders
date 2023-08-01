@@ -51,6 +51,7 @@ While this is a bare glimpse of my creations (and my face), I wish to show you w
 
 - Since Machine Learning has been at the core of my interests in this field, this was the most natural next step for me. To build a Neural Network Engine from scratch, and to delve into the nitty gritties of this mysterious, yet unfathomably powerful subject. I've first decided to work on the Python version in order to get a quicker development cycle in tradeoff for slower runtime speeds. Once the implementation is set, I can start work with its more performance centric version in C++.
 <br></br>
+
 On this singular core principal, I've created everything this page has to offer.
 What lies within each of my projects is up on display on their respective repositories, and is yours to see and find out.
 
