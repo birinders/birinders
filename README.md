@@ -3,7 +3,6 @@
 ### If you're reading this, you've \*_maybe_\* (_hopefully_) reached the profile you're looking for. 
 ### My name is Birinder, and I'm a Computer Engineering student at TIET, Patiala. 
 ### Since you're here anyways, let me show you around.
-<br></br>
 I am currently a final year student at Thapar Institute of Engg. and Technology at Patiala, India, and am pursuing my Bachelors in Computer Engineering.
 I am (fingers crossed) set on my way to graduate university in 2024. I have been around computers since as little as I can remember, and wish to be around them till so may conclude my life and times. I've learnt two things during my time at college- 
 1. Strings are the hardest topic there ever will be, and
