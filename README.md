@@ -1,6 +1,6 @@
 ## 👋 Hello There!
   
-### If you're reading this, you've \*_maybe_\* (hopefully) reached the profile you're looking for. 
+### If you're reading this, you've (hopefully) reached the profile you're looking for. 
 ### My name is Birinder, and I'm a Computer Engineering student at TIET, Patiala. 
 ### Since you're here anyways, let me show you around.
 <br></br>
