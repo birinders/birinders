@@ -41,7 +41,7 @@ Countless projects of mine revolve around harnessing the power of this most basi
 <p align="center">
   <img src="https://github.com/birinders/birinders/assets/102192983/fd6b3d42-ab72-4c85-96b5-8322ca522bfd" alt="That's me lol" width="400">
   <br>
-  <sub>Me on the windows terminal, as I sit here typing about the greatness of the windows terminal</sub>
+  <sub>Me on the windows terminal, as I sit here typing about windows terminal</sub>
 </p>
 <br></br>
 
