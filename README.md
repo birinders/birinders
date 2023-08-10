@@ -1,10 +1,22 @@
 <h1 align = "center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hello There!</h>
 <!--<h2><img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" width="30"> Hello There!</h2>-->
 
+<h3>
+  <p style="margin: 10px 0;">
+    If you're reading this, you've (hopefully) reached the profile you're looking for.
+  </p>
+  <p style="margin: 10px 0;">
+    My name is Birinder, and I'm a Computer Engineering student at TIET, Patiala.
+  </p>
+  <p style="margin: 10px 0;">
+    Since you're here anyways, let me show you around.
+  </p>
+</h3>
+<br>
+<!--
 ### If you're reading this, you've (hopefully) reached the profile you're looking for. 
 ### My name is Birinder, and I'm a Computer Engineering student at TIET, Patiala. 
-### Since you're here anyways, let me show you around.
-<br></br>
+### Since you're here anyways, let me show you around.-->
 I am currently a final year student at Thapar Institute of Engg. and Technology at Patiala, India, and am pursuing my Bachelors in Computer Engineering.
 I am (fingers crossed) set on my way to graduate university in 2024. I have been around computers since as little as I can remember, and wish to be around them till so may conclude my life and times. So far, I've learnt two things during my time at college- 
 1. Strings are the hardest topic there ever will be, and
