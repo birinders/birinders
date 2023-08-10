@@ -1,5 +1,6 @@
-## 👋 Hello There!
-  
+<h1 align = "center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hello There!</h>
+<!--<h2><img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" width="30"> Hello There!</h2>-->
+
 ### If you're reading this, you've (hopefully) reached the profile you're looking for. 
 ### My name is Birinder, and I'm a Computer Engineering student at TIET, Patiala. 
 ### Since you're here anyways, let me show you around.
@@ -9,7 +10,7 @@ I am (fingers crossed) set on my way to graduate university in 2024. I have been
 1. Strings are the hardest topic there ever will be, and
 2. My love for the VSCode debugger is nigh unprecedented. (that thing has a stronger addiction than most addicting things I know). The only thing that maybe holds a candle to it is the Windows Terminal itself.
 
-I've worked with Python and C++, and have focused my electives on Accelerated Computing and Machine Learning using libraries like Numba, CUDA C++, TensorFlow, CuML, CuDF, etc.
+I'm worked with Python and C++, but am especially adept with the former. I have focused my electives on Accelerated Computing and Machine Learning using libraries like Numba, CUDA C++, TensorFlow, CuML, CuDF, etc.
 I am also experienced in the field of Computer Vision, and have worked extensively with OpenCV, one of the most prominent computer vision libraries for both Python and C++.
 <br>
 <br>
