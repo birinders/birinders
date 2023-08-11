@@ -60,6 +60,7 @@ Countless projects of mine revolve around harnessing the power of this most basi
   <sub>Me on the windows terminal, as I sit here typing about windows terminal</sub>
 </p>
 <br>
+
 While this is a bare glimpse of my creations (and my face), I wish to show you what's possible without ever using any external dependencies through some of my work. I believe that while the grandeur of large libraries and models is quite intriguing, we must approach any problem at its roots, to find ourselves in the shoes of those who first _created_ these aids in order to help us out. I know there's no need to reinvent the wheel, but you better know how to make one in case you find yourself stranded in the middle of nowhere. (remember that the next time you ask your local chemist to prescribe you medicine).
 
 #### 🛠️ I'm currently working on a Machine Learning Engine built from scratch in Python. A C++ port is under consideration for the future.
