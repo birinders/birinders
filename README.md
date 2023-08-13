@@ -54,10 +54,10 @@ Countless projects of mine revolve around harnessing the power of this most basi
 
 <p align="center">
   <a href = "https://github.com/birinders/AsciiVideo">
-  <img src="https://github.com/birinders/birinders/assets/102192983/fd6b3d42-ab72-4c85-96b5-8322ca522bfd" alt="That's me lol" width="400">
+  <img src="https://github.com/birinders/AsciiVideo/assets/102192983/a960305f-0ffb-45bb-8933-1bc2cb1a800e" alt="That's me lol" width="400">
   </a>
   <br>
-  <sub>Me on the windows terminal, as I sit here typing about windows terminal</sub>
+  <sub>Meet Birinder- Coder by the day, still a coder by the night<br>(try ctrl+w to invert the image!)</sub>
 </p>
 <br>
 
