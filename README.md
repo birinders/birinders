@@ -72,8 +72,7 @@ On this singular core principal, I've created everything this page has to offer.
 What lies within each of my projects is up on display on their respective repositories, and is yours to see and find out.
 
 Well, see you there I guess?
-<br><br><br><br>
-<sub>I seriously hope you didn't try to ctrl+w</sub>
+
 <!--
 **birinders/birinders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
