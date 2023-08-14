@@ -57,7 +57,7 @@ Countless projects of mine revolve around harnessing the power of this most basi
   <img src="https://github.com/birinders/AsciiVideo/assets/102192983/a960305f-0ffb-45bb-8933-1bc2cb1a800e" alt="That's me lol" width="400">
   </a>
   <br>
-  <sub>Meet Birinder- Coder by the day, still a coder by the night<br>(try ctrl+w to invert the image!)</sub>
+  <sub>"Now I am become terminal, the destroyer of GUI" <br>-Birinder, probably</sub>
 </p>
 <br>
 
@@ -72,10 +72,8 @@ On this singular core principal, I've created everything this page has to offer.
 What lies within each of my projects is up on display on their respective repositories, and is yours to see and find out.
 
 Well, see you there I guess?
-
-
-
-
+<br><br><br><br>
+<sub>I seriously hope you didn't try to ctrl+w</sub>
 <!--
 **birinders/birinders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
