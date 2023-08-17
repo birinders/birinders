@@ -25,6 +25,7 @@ I am (fingers crossed) set on my way to graduate university in 2024. I have been
 
 I've worked with Python and C++, but am especially adept with the former. I have focused my electives on Accelerated Computing and Machine Learning using libraries like Numba, CUDA C++, TensorFlow, CuML, CuDF, etc.
 I am also experienced in the field of Computer Vision, and have worked extensively with OpenCV, one of the most prominent computer vision libraries for both Python and C++.
+<br><br>You can find my portfolio [here](https://birinders.github.io).
 <br>
 <br>
 Since you've read this far, let me introduce you to
