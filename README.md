@@ -44,7 +44,7 @@ Countless projects of mine revolve around harnessing the power of this most basi
 <p align="center">
   <img src="https://github.com/birinders/birinders/assets/102192983/d9c59190-007c-4454-8175-c687f7c2f399" alt="Windows Terminal" width="400">
   <br>
-  <sub>(The windows terminal fighting for its life, trying to solve a sudoku you and I probably couldn't. Circa 2023, Colorized)</sub>
+  <sub>(The windows terminal fighting for its life, trying to <a href = "https://github.com/birinders/SudokuVisualizer">solve a sudoku</a> you and I probably couldn't. Circa 2023, Colorized)</sub>
 </p>
 <br>
 <br>
@@ -57,13 +57,13 @@ Countless projects of mine revolve around harnessing the power of this most basi
   <img src="https://github.com/birinders/AsciiVideo/assets/102192983/a960305f-0ffb-45bb-8933-1bc2cb1a800e" alt="That's me lol" width="400">
   </a>
   <br>
-  <sub>"Now I am become terminal, the destroyer of GUI" <br>-Birinder, probably</sub>
+  <sub>"Now I am <a href = "https://github.com/birinders/AsciiVideo">become terminal</a>, the destroyer of GUI" <br>-Birinder, probably</sub>
 </p>
 <br>
 
 While this is a bare glimpse of my creations (and my face), I wish to show you what's possible without ever using any external dependencies through some of my work. I believe that while the grandeur of large libraries and models is quite intriguing, we must approach any problem at its roots, to find ourselves in the shoes of those who first *created* these aids in order to help us out. I know there's no need to reinvent the wheel, but you better know how to make one in case you find yourself stranded in the middle of nowhere. (remember that the next time you ask your local chemist to prescribe you medicine).
 
-#### 🛠️ I'm currently working on a Machine Learning Engine built from scratch in Python. A C++ port is under consideration for the future.
+<h4>🛠️ I'm currently working on a <a href = "https://github.com/birinders/BS-ML_Engine--Python">Machine Learning Engine</a> built from scratch in Python. A C++ port is under consideration for the future.</h4>
 
 - Since Machine Learning has been at the core of my interests in this field, this was the most natural next step for me. To build a Neural Network Engine from scratch, and to delve into the nitty gritties of this mysterious, yet unfathomably powerful subject. I've decided to first work on the Python version in order to get a quicker development cycle in tradeoff for slower runtime speeds. Once the implementation is set, I can start work with its more performance centric version in C++.
 <br></br>
