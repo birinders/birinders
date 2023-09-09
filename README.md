@@ -30,7 +30,7 @@ I am also experienced in the field of Computer Vision, and have worked extensive
 <br>
 Since you've read this far, let me introduce you to
 
-## The projects-
+<h2> <a href="https://github.com/birinders/all-projects">The Projects-</a></h2>
 
 ### Almost all of my projects stem from a singular idea-
 
